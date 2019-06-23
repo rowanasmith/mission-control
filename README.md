@@ -1,6 +1,8 @@
 # Mission Control
 Mission Control is a scorekeeping and recording application to be used when practicing for First Lego League robotics competitions. This version uses React, Redux, Express, and PostgreSQL (a full list of dependencies can be found in `package.json`).
 
+The final build can be seen [here](https://whispering-harbor-51060.herokuapp.com/)
+
 ## Prerequisites
 
 Before you get started, make sure you have the following software installed on your computer:
